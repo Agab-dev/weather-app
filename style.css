@@ -106,15 +106,3 @@ button:hover {
   color: #fff;
   margin-top: 10px;
 }
-
-footer {
-  position: fixed;
-  bottom: 0;
-  height: 30px;
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: black;
-  color: white;
-}
